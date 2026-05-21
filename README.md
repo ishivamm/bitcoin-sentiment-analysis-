@@ -188,7 +188,7 @@ bitcoin-sentiment-analysis/
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/bitcoin-sentiment-analysis.git
+git clone https://github.com/ishivamm/bitcoin-sentiment-analysis.git
 ```
 
 Move into the project folder:
@@ -206,7 +206,7 @@ pip install -r requirements.txt
 Run Jupyter Notebook:
 
 ```bash
-jupyter notebook
+Analysis_notebook.ipynb
 ```
 
 ---
