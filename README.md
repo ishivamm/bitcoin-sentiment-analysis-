@@ -239,5 +239,3 @@ This project combines data analysis, visualization, feature engineering, and mac
 # Author
 
 ## Shivam Maurya
-
-Aspiring Data Scientist | Machine Learning Enthusiast | AI & Analytics Learner
